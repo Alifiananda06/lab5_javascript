@@ -32,3 +32,16 @@ Pemakaian Prompt
 Pembuatan fungsi dan cara pemanggilannya
 
 ![image](https://github.com/Alifiananda06/lab5_javascript/assets/115884834/26a63cd2-3a0b-4217-b44f-5a61474ad3b7)
+
+
+# Dasar Pemrograman Di Javascript
+
+Operasi dasar aritmatika
+
+![image](https://github.com/Alifiananda06/lab5_javascript/assets/115884834/737db306-f4e7-469b-973f-b3aafbe3bcdf)
+
+
+Seleksi kondisi (if..else)
+
+![image](https://github.com/Alifiananda06/lab5_javascript/assets/115884834/762e2f4a-b7e0-4d8c-819b-7906515b937e)
+
